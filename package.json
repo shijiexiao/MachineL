@@ -9,8 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "browserslist":["last 1 Chrome version"],
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
   "dependencies": {
+    "@tensorflow-models/speech-commands": "^0.4.2",
     "@tensorflow/tfjs": "^2.6.0",
     "@tensorflow/tfjs-vis": "^1.4.3"
   }
